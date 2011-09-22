@@ -1,8 +1,6 @@
 This directory contains example code used during the demo and a sample web application                
 
 
-Installation Instructions
-
 ## Setting up the development environment
 
 ### Install JDK
