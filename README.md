@@ -14,7 +14,7 @@ The latest JDK can be downloaded from here http://www.oracle.com/technetwork/jav
 
 1. Download a binary distribution of Groovy and unpack it into some file on your local file system
 2. Set your GROOVY_HOME environment variable to the directory you unpacked the distribution
-3.  Add GROOVY_HOME/bin to your PATH environment variable
+3. Add GROOVY_HOME/bin to your PATH environment variable
 
 You should now have Groovy installed properly. You can test this by typing the following in a command shell:
 
