@@ -3,7 +3,7 @@ This directory contains example code used during the demo and a sample web appli
 
 Installation Instructions
 
-## Setting up the development environment to run Otracker-Webapp
+## Setting up the development environment
 
 ### Install JDK
 Before you can start using Grails you will need to install a Java SDK (not just a JRE) and set the JAVA_HOME environment variable to the location of that SDK
