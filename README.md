@@ -1,4 +1,4 @@
-This directory contains example code used during the demo and a sample web application                
+####This directory contains example code used during the demo and a sample web application                
 
 
 ## Setting up the development environment
@@ -28,6 +28,7 @@ You should now have Groovy installed properly. You can test this by typing the f
 4. Append a reference to the "bin" directory within the Grails directory to your PATH variable (eg %GRAILS_HOME%\bin on Windows or $GRAILS_HOME/bin on Unix). Note that, for Windows, both PATH and GRAILS_HOME must be defined at the same environment variable level (eg. 'System variables') rather than across environment variable levels (eg. PATH under 'System variables' and GRAILS_HOME under 'User variables')
 5. Type "grails" at the command line, if a help message is displayed you are ready to start using Grails!
 
+####Optional
 ### Install MySQL
 Please follow the instructions here to download and install MySQL http://dev.mysql.com/doc/refman/5.1/en/installing.html
               
