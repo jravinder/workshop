@@ -32,3 +32,54 @@ You should now have Groovy installed properly. You can test this by typing the f
 ### Install MySQL
 Please follow the instructions here to download and install MySQL http://dev.mysql.com/doc/refman/5.1/en/installing.html
               
+
+## Running Groovy Console
+
+```bash
+  groovyconsole
+```
+
+## Grails
+
+### Creating a project
+
+```bash
+  grails create-app demo
+```
+
+### Creating a domain class
+
+
+```bash
+  grails create-domain-class student
+```
+
+
+### Creating a controller
+
+```bash
+  grails create-controller Student
+```
+
+
+### Generate Controller
+
+```bash
+  grails generate-controller Student
+```
+
+
+### Generate Views
+
+```bash
+  grails generate-views Student
+```
+
+### Running the application
+
+
+### Creating a project
+
+```bash
+  grails run-app
+```
