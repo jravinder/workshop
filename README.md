@@ -42,7 +42,7 @@ Please follow the instructions here to download and install MySQL http://dev.mys
 
 
 
-## Grails
+## Grails Commands
 
 
 ### Creating a project
