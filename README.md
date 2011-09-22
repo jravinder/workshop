@@ -27,9 +27,8 @@ You should now have Groovy installed properly. You can test this by typing the f
 1. Download the latest Grails release
 2. Extract the archive into an appropriate location; typically C:\grails on Windows or ~/grails on Unix
 3. Create a GRAILS_HOME environment variable that points to the path where you extracted the archive (eg C:\grails on Windows or ~/grails on Unix)
-4. If you have not set the JAVA_HOME environment variable yet, create JAVA_HOME environment variable that points to the path where you have installed Java
-5. Append a reference to the "bin" directory within the Grails directory to your PATH variable (eg %GRAILS_HOME%\bin on Windows or $GRAILS_HOME/bin on Unix). Note that, for Windows, both PATH and GRAILS_HOME must be defined at the same environment variable level (eg. 'System variables') rather than across environment variable levels (eg. PATH under 'System variables' and GRAILS_HOME under 'User variables')
-6. Type "grails" at the command line, if a help message is displayed you are ready to start using Grails!
+4. Append a reference to the "bin" directory within the Grails directory to your PATH variable (eg %GRAILS_HOME%\bin on Windows or $GRAILS_HOME/bin on Unix). Note that, for Windows, both PATH and GRAILS_HOME must be defined at the same environment variable level (eg. 'System variables') rather than across environment variable levels (eg. PATH under 'System variables' and GRAILS_HOME under 'User variables')
+5. Type "grails" at the command line, if a help message is displayed you are ready to start using Grails!
 
 ### Install MySQL
 Please follow the instructions here to download and install MySQL http://dev.mysql.com/doc/refman/5.1/en/installing.html
