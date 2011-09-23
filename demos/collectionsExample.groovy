@@ -1,8 +1,8 @@
 //Java List
 
 List<String> list = new ArrayList<String>();
-list.add("John Doe")
-list.add("Richard Miles")           
+list.add("John Doe");
+list.add("Richard Miles");           
 
 
 
